@@ -54,7 +54,7 @@ NCBI Protein, ExPASy ProtParam, MEGA 11 (Poisson distances, NJ and ML trees, 1,0
 
 ![Molecular weight](molecular_weight.png)
 
-![Theoretical pI](theoretical_pl.png)
+![Theoretical pI]theoretical_pI.png)
 
 ![Instability index](instability_index.png)
 
