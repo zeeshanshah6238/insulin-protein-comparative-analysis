@@ -13,6 +13,10 @@ This project investigates the similarities and differences in insulin protein se
 
 ## Tools Used
 - NCBI Protein Database
+- bioinformatics
+-  insulin
+-   phylogenetics
+-    mega
 - ExPASy ProtParam
 - MEGA
 - R and RStudio
