@@ -31,34 +31,43 @@ NCBI Protein, ExPASy ProtParam, MEGA 11 (Poisson distances, NJ and ML trees, 1,0
 - Molecular weight vs GRAVY: r = -0.315, p = 0.375 (not significant)
 
 ## Repository contents
-- `paper/insulin_project_paper.pdf`: full report
-- `data/insulin_sequences.fasta`: 10 insulin sequences
-- `data/result_interpretation.xlsx`: results workbook
-- `figures/`: all figures shown below
+- insulin_project_paper.pdf: full report
+- insulin_sequences.fasta: 10 insulin sequences
+- result_interpretation.xlsx: results workbook
+- PNG files: all figures shown below
 
 ## Multiple Sequence Alignment
-![MSA](figures/msa_alignment.png)
+![MSA](msa_alignment.png)
 
 ## Conserved and Variable Sites
-![Conserved sites](figures/conserved_sites.png)
-![Variable sites](figures/variable_sites.png)
+![Conserved sites](conserved_sites.png)
+
+![Variable sites](variable_sites.png)
 
 ## Phylogenetic Trees
-![NJ tree](figures/NJ_tree.png)
-![ML tree](figures/ML_tree.png)
+![NJ tree](NJ_tree.png)
+
+![ML tree](ML_tree.png)
 
 ## Physicochemical Properties
-![Amino acid composition](figures/amino_acid_composition.png)
-![Molecular weight](figures/molecular_weight.png)
-![Theoretical pI](figures/theoretical_pl.png)
-![Instability index](figures/instability_index.png)
+![Amino acid composition](amino_acid_composition.png)
+
+![Molecular weight](molecular_weight.png)
+
+![Theoretical pI](theoretical_pl.png)
+
+![Instability index](instability_index.png)
 
 ## Evolutionary Distances
-![Distance heatmap](figures/distance_heatmap.png)
-![Distance histogram](figures/distance_histogram.png)
-![Hierarchical clustering](figures/hierarchical_clustering.png)
+![Distance heatmap](distance_heatmap.png)
+
+![Distance histogram](distance_histogram.png)
+
+![Hierarchical clustering](hierarchical_clustering.png)
 
 ## Correlations
-![Aliphatic index vs GRAVY](figures/aliphatic_vs_gravy.png)
-![MW vs GRAVY](figures/mw_vs_gravy.png)
-![MW vs sequence length](figures/mw_vs_length.png)
+![Aliphatic index vs GRAVY](aliphatic_vs_gravy.png)
+
+![MW vs GRAVY](mw_vs_gravy.png)
+
+![MW vs sequence length](mw_vs_length.png)
