@@ -2,7 +2,7 @@
 
 Abdul Wali Khan University Mardan | Department of Biotechnology | 2026
 
-**Authors:** Zeeshan Shah
+**Authors:** Zeeshan Shah,Husna khan
 
 ## Overview
 Comparison of insulin protein sequences from 10 mammals: amino acid composition, physicochemical properties, conserved/variable sites, evolutionary distances, and phylogeny.
